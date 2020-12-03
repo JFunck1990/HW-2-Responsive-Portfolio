@@ -1,0 +1,73 @@
+h1 {
+color: blue;
+
+}
+
+body {
+    background-image: url("../images/galaxy-wallpaper-preview-11.jpg");
+    text-align: center;
+    background-size: ;
+    font-family: fantasy;
+}
+
+.c1 {
+    color: aquamarine;
+}
+
+img {
+height: 300px;
+width: 300px;
+margin: 30px;
+padding: 10px;
+border: solid 10px #3409cf;
+border-radius: 50%;
+background-color:rgb(24, 164, 189);
+filter: grayscale(0%);
+background-position: center;
+}
+
+img:hover {
+    position:relative;
+    top:-25px;
+    left:-35px;
+    width:70%;
+    height:70%;
+    display:block;
+    z-index:999;
+    filter: grayscale(0%);
+}
+
+.mc {
+background-color: lightslategrey;
+text-align: center;
+}
+
+.move1 {
+    position: relative;
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
+} 
+
+.social {
+border: solid 1px #3409cf;
+
+}
+
+
+.cf {
+color: rgb(8, 245, 107);
+margin: 200px 0 0 0;
+font-size: x-large;
+}
+
+input, button {
+    margin: 10px;
+  }
+  
+  .focus-only:focus {
+    outline: 2px solid black;  
+  }
+  
+  .focus-visible-only:focus-visible {
+    outline: 4px dashed darkorange;
+  }
