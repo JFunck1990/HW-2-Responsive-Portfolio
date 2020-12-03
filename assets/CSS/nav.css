@@ -1,10 +1,6 @@
-h1 {
-color: blue;
-
-}
 
 body {
-    background-image: url("../images/galaxy-wallpaper-preview-11.jpg");
+    background: url("../images/galaxy-wallpaper-preview-11.jpg");
     text-align: center;
     background-size: ;
     font-family: fantasy;
