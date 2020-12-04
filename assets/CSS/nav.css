@@ -1,9 +1,10 @@
 
 body {
-    background: url("../images/galaxy-wallpaper-preview-11.jpg");
+    background: url("../images/pexels-simon-migaj-747964.jpg");
     text-align: center;
     background-size: ;
     font-family: fantasy;
+    background-position: center;
 }
 
 .c1 {
@@ -20,18 +21,29 @@ border-radius: 50%;
 background-color:rgb(24, 164, 189);
 filter: grayscale(0%);
 background-position: center;
+cursor: pointer;
+transition: 0.3s
 }
 
 img:hover {
-    position:relative;
+   opacity: 0.7;
+    /*position:relative;
     top:-25px;
     left:-35px;
-    width:70%;
-    height:70%;
-    display:block;
+    width:30%;
+    height:30%;
+    display:table-column;
     z-index:999;
-    filter: grayscale(0%);
+    border: 1px #333;
+    filter: grayscale(0%);*/
+    
 }
+
+
+.myImg {
+ ;
+
+  .myImg:hover {opacity: 0.7;}
 
 .mc {
 background-color: lightslategrey;
@@ -65,5 +77,13 @@ input, button {
   }
   
   .focus-visible-only:focus-visible {
-    outline: 4px dashed darkorange;
+    outline: 4px dashed darkorange;*/
   }
+
+  .container {
+margin-top: 50px 0 0 0;
+padding: 0 0 0 0 0;
+line-break: normal;
+  }
+
+
