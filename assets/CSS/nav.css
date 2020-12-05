@@ -9,6 +9,12 @@ body {
 
 .c1 {
     color: aquamarine;
+    margin: 50px 0 50px 0;
+    padding: 0 0 0 0;
+}
+.c2 {
+    margin-top: 20px;
+
 }
 
 img {
@@ -27,7 +33,7 @@ transition: 0.3s
 
 img:hover {
    opacity: 0.7;
-    /*position:relative;
+    /*position: absolute;;
     top:-25px;
     left:-35px;
     width:30%;
@@ -80,10 +86,9 @@ input, button {
     outline: 4px dashed darkorange;*/
   }
 
-  .container {
-margin-top: 50px 0 0 0;
-padding: 0 0 0 0 0;
-line-break: normal;
+  .about {
+
+
   }
 
 
