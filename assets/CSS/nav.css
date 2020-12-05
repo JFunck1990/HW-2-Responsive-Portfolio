@@ -5,90 +5,43 @@ body {
     background-size: ;
     font-family: fantasy;
     background-position: center;
-}
-
-.c1 {
-    color: aquamarine;
-    margin: 50px 0 50px 0;
-    padding: 0 0 0 0;
-}
-.c2 {
-    margin-top: 20px;
-
+    color: #3501f1;
 }
 
 img {
-height: 300px;
-width: 300px;
-margin: 30px;
-padding: 10px;
-border: solid 10px #3409cf;
-border-radius: 50%;
-background-color:rgb(24, 164, 189);
-filter: grayscale(0%);
-background-position: center;
-cursor: pointer;
-transition: 0.3s
-}
-
-img:hover {
-   opacity: 0.7;
-    /*position: absolute;;
-    top:-25px;
-    left:-35px;
-    width:30%;
-    height:30%;
-    display:table-column;
-    z-index:999;
-    border: 1px #333;
-    filter: grayscale(0%);*/
-    
-}
-
-
-.myImg {
- ;
-
-  .myImg:hover {opacity: 0.7;}
-
-.mc {
-background-color: lightslategrey;
-text-align: center;
-}
-
-.move1 {
-    position: relative;
-    padding: 0 0 0 0;
-    margin: 0 0 0 0;
-} 
-
-.social {
-border: solid 1px #3409cf;
-
-}
-
-
-.cf {
-color: rgb(8, 245, 107);
-margin: 200px 0 0 0;
-font-size: x-large;
-}
-
-input, button {
-    margin: 10px;
+  height: 300px;
+  width: 300px;
+  margin: 30px;
+  padding: 10px;
+  border: solid 10px #3409cf;
+  border-radius: 50%;
+  background-color:rgb(24, 164, 189);
+  filter: grayscale(0%);
+  background-position: center;
+  cursor: pointer;
+  transition: 0.3s
   }
   
-  .focus-only:focus {
-    outline: 2px solid black;  
-  }
-  
-  .focus-visible-only:focus-visible {
-    outline: 4px dashed darkorange;*/
+  img:hover {
+     opacity: 0.7;
+    font-family: fantasy;
   }
 
-  .about {
+ .c1 {
+  color: aquamarine;
+  margin: 50px 0 50px 0;
+  padding: 0 0 0 0;
+}
 
+.c2 {
+  margin: 50px;
 
-  }
+}
 
-
+footer {
+position: relative;
+bottom:5px;
+width:100%;
+height:60px;   /* Height of the footer */
+color: peachpuff;
+}
