@@ -36,6 +36,13 @@ img {
   margin: 50px;
 }
 
+#c3 {
+border-radius: 50%;
+height: 200px;
+width: 200px;
+  
+}
+
 footer {
 position: relative;
 bottom:5px;
