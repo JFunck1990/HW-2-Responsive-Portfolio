@@ -43,6 +43,13 @@ width: 200px;
   
 }
 
+#about{
+  height: 400px;
+  width: 600px;
+  margin-left: 430px;
+  position: relative;
+}
+
 footer {
 position: relative;
 bottom:5px;
