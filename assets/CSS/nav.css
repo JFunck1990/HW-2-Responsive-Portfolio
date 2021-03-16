@@ -4,7 +4,7 @@ body {
     text-align: center;
     font-family: fantasy;
     background-position: center;
-    color: #3501f1;
+    color: #39e67b;
 }
 
 img {
@@ -40,20 +40,34 @@ img {
 border-radius: 50%;
 height: 200px;
 width: 200px;
-  
+
 }
 
 #about{
   height: 400px;
   width: 600px;
   margin-left: 430px;
-  position: relative;
+
 }
+
+.art{
+  text-align: center;
+}
+
+
+
+
+
 
 footer {
 position: relative;
 bottom:5px;
 width:100%;
-height:60px;  
+height:60px;
 color: peachpuff;
+}
+
+#rep {
+  color: rgb(25, 187, 52);
+
 }
