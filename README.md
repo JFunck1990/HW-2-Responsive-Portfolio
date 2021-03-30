@@ -1,5 +1,34 @@
-# HW-2-Responsive-Portfolio
-Unit 02 CSS and Bootstrap Homework: Responsive portfolio
-This is my Homework two, which I had to make a reponsive portfolio using BootStrap.
-I have 3 html pages a home page witch is a about me page, a portfolio in which I have pictures of some trips that me and my wife have done,
-and a contact page which have inputs and a footer with contact information.The style page that is not bootstap's is located in two folders, first in the assets folder then in the CSS folder. 
+# Portfolio #1
+by: Jack Funck
+
+
+## table of Contents:
+ - [Link](#link)
+ - [Description ](#desc)
+ - [Images ](#img)
+
+<a name="link"></a>
+## Link
+give it a look: <a href="https://jfunck1990.github.io/HW-2-Responsive-Portfolio/index.html" target="_blank"> My Portfolio</a>
+
+<a name="desc"></a>
+## Description
+
+This is my Portfolio, which has Home page, Portfolio/Project pag, Resume Page, and Contact Page.
+
+<a name="desc"></a>
+
+## Images
+
+### home
+
+### Portfolio
+
+### Resume
+
+### Contact
+
+
+
+
+
