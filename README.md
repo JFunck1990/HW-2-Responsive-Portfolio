@@ -16,18 +16,18 @@ give it a look: <a href="https://jfunck1990.github.io/HW-2-Responsive-Portfolio/
 
 This is my Portfolio, which has Home page, Portfolio/Project pag, Resume Page, and Contact Page.
 
-<a name="desc"></a>
+<a name="img"></a>
 
 ## Images
 
 ### home
-
+<img src="assets/images/home.png">
 ### Portfolio
-
+<img src="assets/images/port.png">
 ### Resume
-
+<img src="assets/images/res.png">
 ### Contact
-
+<img src="assets/images/con.png"
 
 
 
