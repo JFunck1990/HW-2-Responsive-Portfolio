@@ -21,13 +21,13 @@ This is my Portfolio, which has Home page, Portfolio/Project pag, Resume Page, a
 ## Images
 
 ### home
-<img src="assets/images/home.png">
+<img src="/assets/images/home.png">
 ### Portfolio
-<img src="assets/images/port.png">
+<img src="/assets/images/port.png">
 ### Resume
-<img src="assets/images/res.png">
+<img src="/assets/images/res.png">
 ### Contact
-<img src="assets/images/con.png"
+<img src="/assets/images/con.png"
 
 
 
